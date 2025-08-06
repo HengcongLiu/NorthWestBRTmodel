@@ -6,7 +6,6 @@ The coding was developed using the Jupyter notebook (https://jupyter.org/).
 
 The files "tick.ipynb" and "tbv.ipynb" include all sources codes to run the BRT models and all related analyses.
 
-The "input" directory includes all materials to run the analyses, including 
-
+The "input" directory includes all materials to run the analyses.
 
 If any bugs or issues with the code are identified please do get in touch!
