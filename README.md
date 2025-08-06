@@ -2,7 +2,7 @@
 
 Codes for paper "The risk of human- and mammal-infecting tick-borne viruses in Northwest China and adjacent countries: a vector, genomic, and modelling study"
 
-The coding language was developed in the Jupyter notebook (https://jupyter.org/).
+The coding was developed using the Jupyter notebook (https://jupyter.org/).
 
 The files "tick.ipynb" and "tbv.ipynb" include all sources codes to run the BRT models and all related analyses.
 
