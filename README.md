@@ -1,7 +1,6 @@
-This repository contains the code for the paper:
-**“The risk of human- and mammal-infecting tick-borne viruses in Northwest China and adjacent countries: a vector, genomic, and modelling study”.
+This repository contains the codes for the paper: "The risk of human- and mammal-infecting tick-borne viruses in Northwest China and adjacent countries: a vector, genomic, and modelling study".
 
-The code was developed using the Jupyter Notebook environment. All required libraries can be easily installed using the pip install command.
+The codes was developed using the Jupyter Notebook environment. All required libraries can be easily installed using the pip install command.
 
 Contents:
 tick.ipynb and tbv.ipynb: These notebooks contain the complete source code for running the Boosted Regression Tree (BRT) models and performing all related analyses.
