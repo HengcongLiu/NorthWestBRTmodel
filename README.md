@@ -1,11 +1,11 @@
-# NorthWestBRTmodel
+This repository contains the code for the paper:
+**“The risk of human- and mammal-infecting tick-borne viruses in Northwest China and adjacent countries: a vector, genomic, and modelling study”.
 
-Codes for paper "The risk of human- and mammal-infecting tick-borne viruses in Northwest China and adjacent countries: a vector, genomic, and modelling study"
+The code was developed using the Jupyter Notebook environment. All required libraries can be easily installed using the pip install command.
 
-The coding was developed using the Jupyter notebook (https://jupyter.org/).
+Contents:
+tick.ipynb and tbv.ipynb: These notebooks contain the complete source code for running the Boosted Regression Tree (BRT) models and performing all related analyses.
 
-The files "tick.ipynb" and "tbv.ipynb" include all sources codes to run the BRT models and all related analyses.
+input/ directory: Includes all necessary input data files to reproduce the analyses.
 
-The "input" directory includes all materials to run the analyses.
-
-If any bugs or issues with the code are identified please do get in touch!
+If you encounter any bugs or issues with the code, please feel free to get in touch!
