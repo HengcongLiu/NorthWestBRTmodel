@@ -1,0 +1,11 @@
+/path/DIAMOND_BLASTX --threads 20 \
+		-e 1E-5 \
+		-k 3 \
+		-f 6 qseqid qlen sseqid stitle pident length evalue sskingdoms staxids \
+		--tmpdir /dev/shm \
+		--block-size 10 \
+		--index-chunks 1 \
+		-d virus seq database/Genbank non-redundant nr database \
+		-q query file \
+		-o output file\
+		--more-sensitive
