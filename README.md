@@ -1,6 +1,6 @@
 This repository contains the codes for the paper: "The risk of human- and mammal-infecting tick-borne viruses in Northwest China and adjacent countries: a vector, genomic, and modelling study".
 
-The BRT model codes are developed using the Jupyter Notebook environment (https://jupyter.org/). All required libraries can be easily installed using the pip install command.
+The codes for BRT models are developed using the Jupyter Notebook environment (https://jupyter.org/). All required libraries can be easily installed using the pip install command.
 
 Contents:
 
