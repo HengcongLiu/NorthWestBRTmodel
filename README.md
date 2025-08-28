@@ -8,4 +8,8 @@ Contents:
 
 (2) "input/" directory: Includes all necessary input data files to reproduce the analyses.
 
+(3) "Bowtie_TBV.sh" and "Bowtie_COI.sh": These notebooks are custom scripts developed to use the tool Bowtie2 to align sequencing reads to the reference sequences of TBV genomes or tick COI gene sequences. The mapped reads were further used for RPM calculation or species demarcation, respectively.
+
+(4) "BLASTN_TBV.sh" and "DIAMOND_BLASTX_TBV.sh" : These notebooks are custom scripts developed to compare contigs assembled by Trinity against the GenBank non-redundant nucleotide and non-redundant protein databases to search homologous sequences. Based on the annotations of the output, all contigs annotated as prokaryotes and eukaryotes are filtered. 
+
 If you encounter any bugs or issues with the code, please feel free to get in touch!
